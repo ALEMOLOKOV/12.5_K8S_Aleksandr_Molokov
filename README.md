@@ -10,13 +10,13 @@
 
 ### Ответ
 
-### 1. Deployment frontend - ![]()
+### 1. ![Deployment frontend](https://github.com/ALEMOLOKOV/12.5_K8S_Aleksandr_Molokov/blob/4ae54bdb36d54103220266240e61e755844d3d90/deployment-frontend.yaml)
 
-### 2. Deployment backend - ![]()
+### 2. ![Deployment backend](https://github.com/ALEMOLOKOV/12.5_K8S_Aleksandr_Molokov/blob/4ae54bdb36d54103220266240e61e755844d3d90/deployment-backend.yaml)
 
 ### 3. Services
-### Frontend - ![]()
-### Backend - ![]()
+### ![Frontend](https://github.com/ALEMOLOKOV/12.5_K8S_Aleksandr_Molokov/blob/4ae54bdb36d54103220266240e61e755844d3d90/service-frontend.yaml)
+### ![Backend](https://github.com/ALEMOLOKOV/12.5_K8S_Aleksandr_Molokov/blob/4ae54bdb36d54103220266240e61e755844d3d90/service-backend.yaml)
 
 ### 4. Проверка доступности приложений
 
@@ -27,7 +27,6 @@
 #### Backend
 
 ![curl backend](https://github.com/ALEMOLOKOV/12.5_K8S_Aleksandr_Molokov/assets/109212419/8aba1a28-efe6-48a8-9d05-5f214620bcf3)
-
 
 ------
 
