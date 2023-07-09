@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: svc-backend
+  namespace: default
+spec:
+  selector:
+    app: deployment-backend
+  ports:
+  - name: multitool
+    port: 80
+  type: ClusterIP
