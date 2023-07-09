@@ -41,12 +41,15 @@
 
 #### 1 Включение Ingress
 
-#### 2 ![Ingress]()
+![ingress enabled](https://github.com/ALEMOLOKOV/12.5_K8S_Aleksandr_Molokov/assets/109212419/deaa3150-dc8a-431a-a944-96f45c9664ad)
+
+#### 2 ![Ingress](https://github.com/ALEMOLOKOV/12.5_K8S_Aleksandr_Molokov/blob/47daf71752058e1b55ce418b3d922ed3e317fc31/Ingress.yaml)
 
 #### Доступ frontend
 
-
+![frontend curl](https://github.com/ALEMOLOKOV/12.5_K8S_Aleksandr_Molokov/assets/109212419/822e96d3-72ea-41f2-a86c-13433dcaa4bd)
 
 #### Доступ backend
 
+![backend curl](https://github.com/ALEMOLOKOV/12.5_K8S_Aleksandr_Molokov/assets/109212419/506e1101-1fbb-43f2-ab6f-95425a0f6227)
 
